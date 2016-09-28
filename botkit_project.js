@@ -99,7 +99,7 @@ try{
                     console.log("Controller error:",err);
                     process.exit();
                 }
-                console.log("Your bot is available on the web at the following URL: " + tunnel.url + '/facebook/receive');
+                console.log("Your bot is available on the web at the following URL : " + tunnel.url + '/facebook/receive');
             });
 
             tunnel.on('close', function() {
