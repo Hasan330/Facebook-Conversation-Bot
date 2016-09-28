@@ -1,0 +1,19 @@
+{
+  "name": "self-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasan Khader",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.2.0",
+    "botkit-storage-firebase": "^1.0.0",
+    "lda": "^0.1.8",
+    "messenger-bot": "^2.3.0",
+    "natural-brain": "^0.2.3",
+    "nlp-toolkit": "^0.2.6"
+  }
+}
